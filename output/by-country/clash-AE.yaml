@@ -32,7 +32,7 @@ proxies:
   port: 8443
   udp: true
   type: vless
-  uuid: 05819bb1-2975-473c-a51f-0fbccf8d2cfa
+  uuid: 1e3b5752-e720-4347-b8e9-384697d0ce38
   flow: xtls-rprx-vision
   tls: true
   reality-opts:
@@ -40,7 +40,7 @@ proxies:
   servername: tradingview.com
   client-fingerprint: firefox
 - name: 🇦🇪 阿联酋 (UAE) 04 - xiaohe
-  server: 85.204.107.173
+  server: 85.204.107.183
   port: 8080
   udp: true
   type: hysteria2
